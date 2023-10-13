@@ -1,0 +1,24 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'About',   url: 'about.html'}
+- {name: 'Research', url: 'research.html'}
+- {name: 'Learning resources', url: 'learning resources.html'}
+- {name: 'Gallery', url: 'gallery.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github',     link: 'https://shuyilalala.github.io/shuyiwu.github.io/'}
+- {icon: 'twitter',    link: 'https://twitter.com/ShuyiWu2017'}
+- {icon: 'linkedin',   link: 'https://www.linkedin.com/in/shuyi-wu-b8a155283/'}
+- {icon: 'envelope',   link: 'mailto:shuyiwu2017@gmail.com'}
+# - {icon: 'rss-square', link: '/rss-feed.xml'}
+
+
+post_date_prefix: 'Written on'
