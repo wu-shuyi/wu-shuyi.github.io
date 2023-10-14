@@ -8,10 +8,10 @@ permalink: /research
 
 My research interest lies on understanding the neural processing of cognition, and also how we can improve our cognitive functions, including neural rehabilitation. 
 
+<br>
 
-<br>
-<br>
- 
+Here are the publications I have been involved in over the past few years.
+
 ### Publications
 
 1. Wu S., Tyler LK, Cam-CAN, Rowe JB. & Tsvetanov KA. (2023). Cerebral blood flow predicts
