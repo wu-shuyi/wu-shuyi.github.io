@@ -16,17 +16,32 @@ Here I would share some of my learning notes and open materials. <br>
 
 
 
-### fMRI
+1. fMRI
 
-## principles
+(1)principles
 
-## data analysis
+(2) data analysis
 
-# [nilearn](https://nilearn.github.io/stable/index.html)
-# [spm]
+  [nilearn](https://nilearn.github.io/stable/index.html)
 
-## plot
+(3) results plot
 
 
-### Meta-review 
+2. Meta-review (fmri, activation coordinate-based)
+
+
+3. EEG
+
+(1) data-analysis
+
+(2) hyperscanning setting
+
+
+
+4. Eye-tracking
+
+(1) eye-movement recording (Eyelink-SR1000)
+
+(2) data-analysis
+
 
