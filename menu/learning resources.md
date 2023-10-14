@@ -11,41 +11,39 @@ Here I would share some of my learning notes and open materials. <br>
 ---
 
 
+<font size="8">  1. fMRI </font> 
 
-
-
-
-
-<font size="12">  1. fMRI </font> <br>
-
-(1)principles
+<font size="6"> (1)principles </font> 
 
 
 <br>
-(2) data analysis
+<font size="6"> (2) data analysis </font> 
 
 [nilearn](https://nilearn.github.io/stable/index.html)<br>
 <br>
-(3) results plot<br>
+
+<font size="6">(3) results plot </front> <br>
 
 
-<h1> 2. Meta-review (fmri, activation coordinate-based) </h1> <br>
+<font size="8">  2. Meta-review (fmri, activation coordinate-based) </front> 
 
 <br>
 <br>
 
-<h1> 3. EEG </h1> <br>
+<font size="8">  3. EEG </front> 
 
-(1) data-analysis <br>
+<font size="6"> (1) data-analysis </front> <br>
 
-(2) hyperscanning setting <br>
+<font size="6"> (2) hyperscanning setting </front> <br>
 
 
 
-<h1> 4. Eye-tracking </h1> <br>
+<font size="8">  4. Eye-tracking </front> 
 
-(1) eye-movement recording (Eyelink-SR1000) <br>
+<font size="6"> (1) eye-movement recording (Eyelink-SR1000) </front> <br>
 
-(2) data-analysis <br>
+
+
+<font size="6"> (2) data-analysis </front> <br>
 
 
