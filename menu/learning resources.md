@@ -16,9 +16,11 @@ Here I would share some of my learning notes and open materials. <br>
 
 
 
-<h1> 1. fMRI </h1> <br>
+<font size="12">  1. fMRI </font> <br>
 
 (1)principles
+
+
 <br>
 (2) data analysis
 
