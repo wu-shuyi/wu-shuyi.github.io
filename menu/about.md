@@ -40,7 +40,7 @@ Linguistics Tools: NLTK, Praat <br>
 
 ### Language
 
-Mandarin Chinese (native), English, Cantonese(native)，Hakka(native)
+Mandarin Chinese (native), English, Cantonese(native), Hakka(native)
 
  <br>
  
