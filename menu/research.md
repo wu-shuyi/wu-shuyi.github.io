@@ -6,7 +6,7 @@ permalink: /research
 
 
 
-My research interest lies on 
+My research interest lies on understanding the neural processing of cognition, and also how we can improve our cognitive functions, including neural rehabilitation. 
 
 
 <br>
