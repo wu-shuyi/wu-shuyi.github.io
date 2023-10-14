@@ -11,7 +11,7 @@ Here I would share some of my learning notes and open materials. <br>
 ---
 
 
-<font size="6">  1. fMRI </font>  <br>
+<font size="5">  1. fMRI </font> <br>
 
 <font size="4"> (1)principles </font>  <br>
 
@@ -26,12 +26,12 @@ Here I would share some of my learning notes and open materials. <br>
 
 <br>
 <br>
-<font size="6">  2. Meta-review (fmri, activation coordinate-based) </font>  <br>
+<font size="5">  2. Meta-review (fmri, activation coordinate-based) </font>  <br>
 
 
 <br>
 <br>
-<font size="6">  3. EEG </font>  <br>
+<font size="5">  3. EEG </font>  <br>
 
 <font size="4"> (1) data-analysis </font> <br>
 <br>
@@ -40,7 +40,7 @@ Here I would share some of my learning notes and open materials. <br>
 
 <br>
 <br>
-<font size="6">  4. Eye-tracking </font>  <br>
+<font size="5">  4. Eye-tracking </font>  <br>
 
 <font size="4"> (1) eye-movement recording (Eyelink-SR1000) </font> <br>
 
