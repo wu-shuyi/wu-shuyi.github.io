@@ -59,27 +59,36 @@ open materials <br>
 <font size="5"> 1. Neuroscience </font> <br>
 
 <font size="4"> (1) Harvard - Fundamentals of Neuroscience, Part 3: The Brain (Prof. David Cox) </font> <br>
+
 [video](https://www.bilibili.com/video/av41830186/?p=1) <br>
 
+<br>
 <font size="4"> (2) MIT - Human Mind and Brain, Spring 2018 (Prof. Nancy Kanwisher) </font> <br>
+
 [B站 video](https://www.bilibili.com/video/av24615914/?p=1)  <br>
 [home video](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain) <br>
-  
+
+ <br> 
 <font size="4"> (3) MIT 9.40 - Introduction to Neural Computation, Spring 2018 </font> <br>
+
 [home link](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/) <br>
 
+<br>
 <font size="4"> (4) Neuromatch computational neuroscience course </font> <br>
-[home link](https://compneuro.neuromatch.io/tutorials/intro.html) <br>
 
+[home link](https://compneuro.neuromatch.io/tutorials/intro.html) <br>
 
 <br>
 <br>
 <font size="5"> 2. Deep learning </font> <br>
 
 <font size="4"> (1) Neuromatch deep learning course </font> <br>
+
 [home link](https://deeplearning.neuromatch.io/tutorials/intro.html) <br>
+
 <br>
 <font size="4"> (2) 机器学习深度学习-台湾大学-普通话版 (Prof.李宏毅)</font> <br>
+
 [B站 video](https://www.bilibili.com/video/BV1JE411g7XF) <br>
 
 <br>
