@@ -58,12 +58,11 @@ open materials <br>
 
 <font size="5"> 1. Neuroscience </font> <br>
 
-<font size="4"> (1) Harvard - Fundamentals of Neuroscience, Part 3: The Brain (Prof. David Cox) </font> <br>
-[video](https://www.bilibili.com/video/av41830186/?p=1)
+<font size="4"> (1) [Harvard - Fundamentals of Neuroscience, Part 3: The Brain (Prof. David Cox)](https://www.bilibili.com/video/av41830186/?p=1) </font> <br>
 
 <font size="4"> (2) MIT - Human Mind and Brain, Spring 2018 (Prof. Nancy Kanwisher) </font> <br>
-[B站 video](https://www.bilibili.com/video/av24615914/?p=1)
-[home video](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain)
+<font size="4"> [B站 video](https://www.bilibili.com/video/av24615914/?p=1) </font> <br>
+<font size="4"> [home video](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain) </font> <br> 
   
 <font size="4"> (3) MIT 9.40 - Introduction to Neural Computation, Spring 2018 </font> <br>
 <font size="4"> [home link](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/)</font> <br>
@@ -102,7 +101,7 @@ open materials <br>
 <font size="4"> [video](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) </font> <br>
 <br>
 
-<font size="4"> (5)Introduction to Probability - MIT (Prof. John Tsitsiklis) </font> <br>
+<font size="4"> (5) Introduction to Probability - MIT (Prof. John Tsitsiklis) </font> <br>
 <font size="4"> [home link](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/) </font> <br>
 <font size="4"> [B站 video](https://www.bilibili.com/video/BV1LE411B7ir) </font> <br>
 <br>
