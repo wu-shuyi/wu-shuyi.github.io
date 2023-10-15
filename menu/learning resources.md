@@ -78,7 +78,7 @@ open materials <br>
 (1) Neuromatch deep learning course
    [home link](https://deeplearning.neuromatch.io/tutorials/intro.html)
 
-(2) 
+(2) 机器学习深度学习-台湾大学-普通话版 (Prof.李宏毅)
    [B站 video](https://www.bilibili.com/video/BV1JE411g7XF)
 
 
