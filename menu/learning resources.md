@@ -56,7 +56,7 @@ Here I would share some of my learning notes and open materials. <br>
 <font size="5"> 1. Neuroscience </font> <br>
 
 <font size="4"> 
-(1) Harvard - Fundamentals of Neuroscience, Part 3: The Brain (Prof. David Cox),
+(1) Harvard - Fundamentals of Neuroscience, Part 3: The Brain (Prof. David Cox)<br>
 [video](https://www.bilibili.com/video/av41830186/?p=1) <br>
 
 (2) MIT - Human Mind and Brain, Spring 2018 (Prof. Nancy Kanwisher),
