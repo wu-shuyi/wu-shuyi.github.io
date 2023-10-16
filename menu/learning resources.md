@@ -52,14 +52,16 @@ Here I would share some of my learning notes and open materials. <br>
 [video](https://www.youtube.com/playlist?list=PLNybgro6DM2H7mmTV7eBBH-0nW7rtrypo) <br>
 <br>
 
-<font size="5.5"> Notes </font> <br>
-<font size="5">  1. fMRI </font> <br>
+<font size="5.5"> Notes </font>
+
+<font size="5">  1. fMRI </font>
+
 <font size="4"> (1)principles </font>  <br>
 
 <font size="4"> (2) data analysis </font>  <br>
 <font size="4"> a) preprocess,  </font>
 [fmriprep](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg), this is a python-based package, feel free to link my notes for your reference. 
-[dpabi](http://rfmri.org/DPABI), this is a matlab-based package.
+If you feel more comfortable with matlab, then [dpabi](http://rfmri.org/DPABI) would be a good choice.
 
 <font size="4"> b) contrast analysis(GLM) </font>
 [nilearn](https://nilearn.github.io/stable/index.html) <br>
