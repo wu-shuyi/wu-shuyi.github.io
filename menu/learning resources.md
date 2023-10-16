@@ -9,7 +9,7 @@ image: lionrock.JPG
 Here I would share some of my learning notes and open materials. <br>
 
 ---
-<font size="4.5"> open materials </font> <br>
+<font size="4.5"> Open materials </font> <br>
 <font size="4.5"> 1. Neuroscience </font> <br>
 <font size="4"> (1) Harvard - Fundamentals of Neuroscience P3: The Brain (Prof. David Cox) </font> 
 [video](https://www.bilibili.com/video/av41830186/?p=1) <br>
@@ -60,7 +60,7 @@ Here I would share some of my learning notes and open materials. <br>
 <br>
 <font size="4.5"> Notes </font> <br>
 <font size="4.5">  1. fMRI </font> <br>
-<font size="4"> (1)View and open DICOM data </font>  <br>
+<font size="4"> (1) View and open DICOM data </font>  <br>
 Both [BeeDicomViewer](https://beedicom.com/) and [Mango](http://mangoviewer.com/usingmango.html) work good for viewing MRI raw data. 
 For further analysis, you could use [mricroGL](https://www.nitrc.org/projects/mricrogl/) or [dcm2nii](https://www.nitrc.org/projects/dcm2nii/) to get data in the nii format.
 
@@ -80,13 +80,13 @@ Again,if you feel more comfortable with matlab, you can find [mricorGL](https://
 
 
 <font size="4.5">  2. Meta-review </font> <br>
-First of all, you may not want to miss the youtube channel of [Dr. Gilad ](https://www.youtube.com/@GiladFeldmanScience/channels). In his channel, you find all materials, video recordings of his previous workshops about meta-analysis review and of course the pre-registered report template:). 
-Dr. Feldman focus more on behavioural meta-review. As for fMRI coordinate-based meta-analysis, you can follow my previous project on [uncertainty processing](https://www.sciencedirect.com/science/article/pii/S1053811921003864). In this study, we employed ALE algorithm and functional connectivity analysis (incl. MACM and RSFC) to identify both task-based joint activations and synchronized spontaneous neural signals in the absence of an actual task. Here you can find my [notes](https://www.evernote.com/shard/s721/sh/a709bb6c-d8aa-d3a8-7f11-ba7194ff1cca/rcclWe5Cvk7UT_XObTR9rSagqOFU93kXmz_XlZPR_DyIP9Mf_GikTtdRPQ) about MACM analysis based on BrainMap dataset.
+First of all, you may not want to miss the youtube channel of [Dr. Gilad Feldman](https://www.youtube.com/@GiladFeldmanScience/playlists). In his channel, you can find all video recordings of his previous workshops about behavioural meta-analysis review and of course the pre-registered report template:). 
 
-Besides practical tops, it is always good to learn the goals of meta science and rules of open science before starting a meta study.
-Also, to make a meta-review be more attractive, the contribution should be clear. Interested in how to indicate a clear contribution, you are highly recommended to watch the [talk](https://github.com/wu-shuyi/meta-analysis_behavioural) offered by Dr.Rong Su from IOWA. This can also help you have a sense of how to come up with a research gap. <br>
+As for fMRI coordinate-based meta-analysis, you can follow my previous project on [uncertainty processing](https://www.sciencedirect.com/science/article/pii/S1053811921003864). In this study, we employed ALE algorithm and functional connectivity analysis (incl. MACM and RSFC) to identify both task-based joint activations and synchronized spontaneous neural signals in the absence of an actual task. Here you can find my [notes](https://www.evernote.com/shard/s721/sh/a709bb6c-d8aa-d3a8-7f11-ba7194ff1cca/rcclWe5Cvk7UT_XObTR9rSagqOFU93kXmz_XlZPR_DyIP9Mf_GikTtdRPQ) about MACM analysis based on BrainMap dataset.
 
- 
+Besides practical tops, it is always good to learn the goals of meta science and rules of open science before starting a meta-review study.
+To publish a high-impact meta research, the contribution should be clear. Interested in how to indicate a clear contribution, you are highly recommended to watch the [talk](https://github.com/wu-shuyi/meta-analysis_behavioural) offered by Dr.Rong Su from IOWA. This can also help you have a sense of how to come up with a research gap. <br>
+
 
 <br>
 <font size="4.5">  3. EEG </font> <br>
