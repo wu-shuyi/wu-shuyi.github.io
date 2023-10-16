@@ -65,8 +65,8 @@ Both [BeeDicomViewer](https://beedicom.com/) and [Mango](http://mangoviewer.com/
 For further analysis, you could use [mricroGL](https://www.nitrc.org/projects/mricrogl/) or [dcm2nii](https://www.nitrc.org/projects/dcm2nii/) to get data in the nii format.
 
 <font size="4"> (2) data analysis </font>  <br>
-<font size="4"> a) preprocess,  </font>
-When you have data in the BIDS format, [fMRIPrep](https://fmriprep.org/en/stable/), a preprocessing pipeline will work very well. Feel free to link my [notes](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg) for your reference. 
+<font size="4"> a) preprocess  </font>
+When you happen to have data in the BIDS format, a preprocessing pipeline,[fMRIPrep](https://fmriprep.org/en/stable/), will work very well. Feel free to link my [notes](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg) for your reference. 
 If you feel more comfortable with matlab, then [dpabi](http://rfmri.org/DPABI) would be a good choice.
 
 <font size="4"> b) contrast analysis(GLM) </font>
@@ -99,7 +99,7 @@ d) Eye blinks artifact removal
 e) reference 
 f) downsampling (optional)
 
-I used to use EEGLAB and ERP to use those processing, and my next goal is to get familiar with mne-python. 
+I used to use EEGLAB and ERP to run those analyses, and my next goal is to get familiar with mne-python. 
 
 
 <font size="4"> (2) ERP analysis </font> <br>
