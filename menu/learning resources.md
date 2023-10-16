@@ -50,16 +50,19 @@ Here I would share some of my learning notes and open materials. <br>
 
 <font size="4"> (2) Psychological Statistics - Beijing Normal University </font> 
 [video](https://www.youtube.com/playlist?list=PLNybgro6DM2H7mmTV7eBBH-0nW7rtrypo) <br>
-<br>
 
-<font size="4"> (3) functional MRI principles -  </font> 
+<font size="4"> (3) functional MRI principles - by Martin Lindquist and Tor Wager </font> 
+[video](https://www.youtube.com/@principlesoffmri6920) <br>
+
+<font size="4"> (4) fMRI analysis - by Jeanette Mumford </font> 
+[video](https://www.youtube.com/@mumfordbrainstats/playlists) <br>
 
 <br>
 <font size="4.5"> Notes </font> <br>
 <font size="4.5">  1. fMRI </font> <br>
 <font size="4"> (1)View and open DICOM data </font>  <br>
 Both [BeeDicomViewer](https://beedicom.com/) and [Mango](http://mangoviewer.com/usingmango.html) work good for viewing MRI raw data. 
-For further analysis, we could use [mricroGL](https://www.nitrc.org/projects/mricrogl/) or [dcm2nii](https://www.nitrc.org/projects/dcm2nii/) to get data in the nii format.
+For further analysis, you could use [mricroGL](https://www.nitrc.org/projects/mricrogl/) or [dcm2nii](https://www.nitrc.org/projects/dcm2nii/) to get data in the nii format.
 
 <font size="4"> (2) data analysis </font>  <br>
 <font size="4"> a) preprocess,  </font>
@@ -70,30 +73,37 @@ If you feel more comfortable with matlab, then [dpabi](http://rfmri.org/DPABI) w
 I used to run GLM with [SPM](https://www.fil.ion.ucl.ac.uk/spm/course/slides23-oct/), but switch to [nilearn](https://nilearn.github.io/stable/index.html) for my current project. My notes will come out soon:) <br>
 
 <font size="4">(3) results plot </font> <br>
-There are plenty of toolbox that could plot imaging results. Here I would like to share some toolbox that I am familiar with and are still popular.
-[mricorGL](https://www.nitrc.org/projects/mricrogl).
-[nilearn](https://nilearn.github.io/stable/plotting/index.html).
-[paraview](https://docs.paraview.org/en/latest/). Feel free to check my [note](https://www.notion.so/ParaView-for-plotting-cluster-activation-4c6d74afee8640649330c83957a6ffec?pvs=4) for your reference.
+There are plenty of toolbox that could plot imaging results. Here I would like to share those toolbox that I am familiar with and are still popular.
+I first know [nilearn](https://nilearn.github.io/stable/plotting/index.html) from Dr.Li Jixing at CityU HK and this package can plot ROI, surface map, stats activations,and whatever you can image. But if you would plot some clusters with different highlighted colors,[paraview](https://docs.paraview.org/en/latest/) would definitely be a better choice. Feel free to check my [note](https://www.notion.so/ParaView-for-plotting-cluster-activation-4c6d74afee8640649330c83957a6ffec?pvs=4) for your reference.
 
-[BrainNet Viewer](https://www.nitrc.org/projects/bnv/)
+No worries. If you feel more comfortable with matlab, [mricorGL](https://www.nitrc.org/projects/mricrogl) and [BrainNet Viewer](https://www.nitrc.org/projects/bnv/) work very good.
 
-<font size="4.5">  2. Meta-review (fmri, activation coordinate-based) </font> <br>
+
+<font size="4.5">  2. Meta-review </font> <br>
+First of all, you may not want to miss the youtube channel of [Gilad Feldman](https://www.youtube.com/@GiladFeldmanScience/channels). In his channel, you find all materials and video recordings of his previous workshops about meta-analysis review. 
+Not only practical tips, you could also learn the goal and principle of meta science, the rules of open science, and especially get the pre-registered report template:)
+Besides, to have a feeling about how to come up with a research idea and contribute empirically/theoretically to the field, you are highly recommended to watch the [talk](https://github.com/wu-shuyi/meta-analysis_behavioural) offered by Dr.Rong Su from IOWA.
+
+As for fMRI coordinate-based meta-analysis, you can follow my previous project on [uncertainty processing](https://www.sciencedirect.com/science/article/pii/S1053811921003864). In this study, we also employed MACM analysis and RSFC analysis to identify both task-based joint activations and synchronized spontaneous signals in the absence of an actual task. Here you can find my [notes](https://www.evernote.com/shard/s721/sh/a709bb6c-d8aa-d3a8-7f11-ba7194ff1cca/rcclWe5Cvk7UT_XObTR9rSagqOFU93kXmz_XlZPR_DyIP9Mf_GikTtdRPQ) about conducting MACM analysis based on BrainMap dataset.
+
 
 <br>
 <font size="4.5">  3. EEG </font> <br>
-<font size="4"> (1) data-analysis </font> <br>
+<font size="4"> (1) preprocessing analysis </font> <br>
 
-<font size="4"> (2) hyperscanning setting </font> <br>
+<font size="4"> (2) ERP analysis </font> <br>
+
 
 <br>
 <font size="4.5">  4. Eye-tracking </font> <br>
+I had been involved in a project using eye-tracking a few years ago. Need some time to sort out my notes that written on the hard paper. 
 <font size="4"> (1) eye-movement recording (Eyelink-SR1000) </font> <br>
-
-
 <font size="4"> (2) data-analysis </font> <br>
 <br>
 <br>
 
+<font size="4.5"> 5. DTI analysis </font> <br>
+I will sort out my notes from a tutorial offered by a current doctoral student from Institute of Psychology CAS.
 
 
  
