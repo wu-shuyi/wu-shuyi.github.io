@@ -35,7 +35,7 @@ Here I would share some of my learning notes and open materials. <br>
 
 <font size="4"> (1) data-analysis </font> <br>
 <br>
-<font size="4"> (2) hyperscanning setting </front> <br>
+<font size="4"> (2) hyperscanning setting </font> <br>
 
 
 <br>
@@ -60,7 +60,7 @@ open materials <br>
 
 <font size="4"> (1) Harvard - Fundamentals of Neuroscience, Part 3: The Brain (Prof. David Cox) </font> <br>
 
-[video](https://www.bilibili.com/video/av41830186/?p=1)<br>
+[video](https://www.bilibili.com/video/av41830186/?p=1) <br>
 
 <br>
 <font size="4"> (2) MIT - Human Mind and Brain, Spring 2018 (Prof. Nancy Kanwisher) </font> <br>
