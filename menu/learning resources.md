@@ -54,8 +54,7 @@ Here I would share some of my learning notes and open materials. <br>
 
 <font size="4.5"> Notes </font>
 
-<font size="4.5">  1. fMRI </font>
-
+<font size="4.5">  1. fMRI </font> <br>
 <font size="4"> (1)principles </font>  <br>
 
 <font size="4"> (2) data analysis </font>  <br>
@@ -64,7 +63,7 @@ Here I would share some of my learning notes and open materials. <br>
 If you feel more comfortable with matlab, then [dpabi](http://rfmri.org/DPABI) would be a good choice.
 
 <font size="4"> b) contrast analysis(GLM) </font>
-[nilearn](https://nilearn.github.io/stable/index.html) <br>
+I used to run GLM with [SPM](https://www.fil.ion.ucl.ac.uk/spm/course/slides23-oct/), but currently switch to [nilearn](https://nilearn.github.io/stable/index.html) for my current project. My notes will come out soon:) <br>
 
 <font size="4">(3) results plot </font> <br>
 <br>
