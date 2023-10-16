@@ -70,6 +70,7 @@ If you feel more comfortable with matlab, then [dpabi](http://rfmri.org/DPABI) w
 I used to run GLM with [SPM](https://www.fil.ion.ucl.ac.uk/spm/course/slides23-oct/), but switch to [nilearn](https://nilearn.github.io/stable/index.html) for my current project. My notes will come out soon:) <br>
 
 <font size="4">(3) results plot </font> <br>
+There are plenty of toolbox that could plot imaging results. Here I would like to share some toolbox that I am familiar with and are still popular.
 [mricorGL](https://www.nitrc.org/projects/mricrogl).
 [nilearn](https://nilearn.github.io/stable/plotting/index.html).
 [paraview](https://docs.paraview.org/en/latest/). Feel free to check my [note](https://www.notion.so/ParaView-for-plotting-cluster-activation-4c6d74afee8640649330c83957a6ffec?pvs=4) for your reference.
