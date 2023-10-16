@@ -57,9 +57,11 @@ Here I would share some of my learning notes and open materials. <br>
 <font size="4"> (1)principles </font>  <br>
 
 <font size="4"> (2) data analysis </font>  <br>
-<font size="3.5"> a) preprocess,  </font>
-[fmriprep](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg) <br>
-<font size="3.5"> b) glm, </font>
+<font size="4"> a) preprocess,  </font>
+[fmriprep](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg), this is a python-based package, feel free to link my notes for your reference. 
+[dpabi](http://rfmri.org/DPABI), this is a matlab-based package.
+
+<font size="4"> b) contrast analysis(GLM) </font>
 [nilearn](https://nilearn.github.io/stable/index.html) <br>
 
 <font size="4">(3) results plot </font> <br>
