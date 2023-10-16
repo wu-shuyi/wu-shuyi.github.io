@@ -76,7 +76,7 @@ I used to run GLM with [SPM](https://www.fil.ion.ucl.ac.uk/spm/course/slides23-o
 There are plenty of toolbox that could plot imaging results. Here I would like to share those toolbox that I am familiar with and are still popular.
 I first know [nilearn](https://nilearn.github.io/stable/plotting/index.html) from Dr.Li Jixing at CityU HK and this package can plot ROI, surface map, stats activations, and whatever you want. But if you would plot some clusters with different highlighted colors, [paraview](https://docs.paraview.org/en/latest/) would definitely be a better choice. Feel free to check my [note](https://www.notion.so/ParaView-for-plotting-cluster-activation-4c6d74afee8640649330c83957a6ffec?pvs=4) for your reference.
 
-Again,if you feel more comfortable with matlab, you can find [mricorGL](https://www.nitrc.org/projects/mricrogl) and [BrainNet Viewer](https://www.nitrc.org/projects/bnv/) very useful.
+Again,if you feel more comfortable with matlab, you can find [mricorGL](https://www.nitrc.org/projects/mricrogl) and [BrainNet Viewer](https://www.nitrc.org/projects/bnv/) very useful. My notes about microGL will come out soon:)
 
 
 <font size="4.5">  2. Meta-review </font> <br>
@@ -91,7 +91,19 @@ To publish a high-impact meta research, the contribution should be clear. Intere
 <br>
 <font size="4.5">  3. EEG </font> <br>
 <font size="4"> (1) preprocessing analysis </font> <br>
+In general, the preprocessing analysis would include the following steps:
+a) filter pass
+b) bad channels removal and interpolate
+c) ICA components weight computation and bad components rejection
+d) Eye blinks artifact removal
+e) reference 
+f) downsampling (optional)
+
+I used to use EEGLAB and ERP to use those processing, and my next goal is to get familiar with mne-python. 
+
+
 <font size="4"> (2) ERP analysis </font> <br>
+<font size="4"> (3) EEG spectrum analysis </font> <br>
 
 
 <br>
