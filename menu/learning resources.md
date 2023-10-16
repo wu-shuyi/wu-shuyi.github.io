@@ -13,17 +13,17 @@ Here I would share some of my learning notes and open materials. <br>
 
 <font size="5"> 1. Neuroscience </font> <br>
 
-<font size="4"> 
-(1) Harvard - Fundamentals of Neuroscience, Part 3: The Brain (Prof. David Cox) <br>
+
+<font size="4"> (1) Harvard - Fundamentals of Neuroscience, Part 3: The Brain (Prof. David Cox) <br>
 [video](https://www.bilibili.com/video/av41830186/?p=1) <br>
 
-(2) MIT - Human Mind and Brain, Spring 2018 (Prof. Nancy Kanwisher) <br>
+<font size="4"> (2) MIT - Human Mind and Brain, Spring 2018 (Prof. Nancy Kanwisher) <br>
 [B站 video](https://www.bilibili.com/video/av24615914/?p=1),[home video](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain) <br>
 
-(3) MIT 9.40 - Introduction to Neural Computation, Spring 2018 <br>
+<font size="4"> (3) MIT 9.40 - Introduction to Neural Computation, Spring 2018 <br>
 [home link](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/) <br>
 
-(4) Neuromatch computational neuroscience course <br>
+<font size="4"> (4) Neuromatch computational neuroscience course <br>
 [home link](https://compneuro.neuromatch.io/tutorials/intro.html) <br>
 
 </font>
