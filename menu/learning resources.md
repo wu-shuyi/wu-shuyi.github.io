@@ -74,23 +74,23 @@ I used to run GLM with [SPM](https://www.fil.ion.ucl.ac.uk/spm/course/slides23-o
 
 <font size="4">(3) results plot </font> <br>
 There are plenty of toolbox that could plot imaging results. Here I would like to share those toolbox that I am familiar with and are still popular.
-I first know [nilearn](https://nilearn.github.io/stable/plotting/index.html) from Dr.Li Jixing at CityU HK and this package can plot ROI, surface map, stats activations,and whatever you can image. But if you would plot some clusters with different highlighted colors,[paraview](https://docs.paraview.org/en/latest/) would definitely be a better choice. Feel free to check my [note](https://www.notion.so/ParaView-for-plotting-cluster-activation-4c6d74afee8640649330c83957a6ffec?pvs=4) for your reference.
+I first know [nilearn](https://nilearn.github.io/stable/plotting/index.html) from Dr.Li Jixing at CityU HK and this package can plot ROI, surface map, stats activations, and whatever you want. But if you would plot some clusters with different highlighted colors, [paraview](https://docs.paraview.org/en/latest/) would definitely be a better choice. Feel free to check my [note](https://www.notion.so/ParaView-for-plotting-cluster-activation-4c6d74afee8640649330c83957a6ffec?pvs=4) for your reference.
 
-No worries. If you feel more comfortable with matlab, [mricorGL](https://www.nitrc.org/projects/mricrogl) and [BrainNet Viewer](https://www.nitrc.org/projects/bnv/) work very good.
+Again,if you feel more comfortable with matlab, you can find [mricorGL](https://www.nitrc.org/projects/mricrogl) and [BrainNet Viewer](https://www.nitrc.org/projects/bnv/) very useful.
 
 
 <font size="4.5">  2. Meta-review </font> <br>
-First of all, you may not want to miss the youtube channel of [Gilad Feldman](https://www.youtube.com/@GiladFeldmanScience/channels). In his channel, you find all materials and video recordings of his previous workshops about meta-analysis review. 
-Not only practical tips, you could also learn the goal and principle of meta science, the rules of open science, and especially get the pre-registered report template:)
-Besides, to have a feeling about how to come up with a research idea and contribute empirically/theoretically to the field, you are highly recommended to watch the [talk](https://github.com/wu-shuyi/meta-analysis_behavioural) offered by Dr.Rong Su from IOWA.
+First of all, you may not want to miss the youtube channel of [Dr. Gilad ](https://www.youtube.com/@GiladFeldmanScience/channels). In his channel, you find all materials, video recordings of his previous workshops about meta-analysis review and of course the pre-registered report template:). 
+Dr. Feldman focus more on behavioural meta-review. As for fMRI coordinate-based meta-analysis, you can follow my previous project on [uncertainty processing](https://www.sciencedirect.com/science/article/pii/S1053811921003864). In this study, we employed ALE algorithm and functional connectivity analysis (incl. MACM and RSFC) to identify both task-based joint activations and synchronized spontaneous neural signals in the absence of an actual task. Here you can find my [notes](https://www.evernote.com/shard/s721/sh/a709bb6c-d8aa-d3a8-7f11-ba7194ff1cca/rcclWe5Cvk7UT_XObTR9rSagqOFU93kXmz_XlZPR_DyIP9Mf_GikTtdRPQ) about MACM analysis based on BrainMap dataset.
 
-As for fMRI coordinate-based meta-analysis, you can follow my previous project on [uncertainty processing](https://www.sciencedirect.com/science/article/pii/S1053811921003864). In this study, we also employed MACM analysis and RSFC analysis to identify both task-based joint activations and synchronized spontaneous signals in the absence of an actual task. Here you can find my [notes](https://www.evernote.com/shard/s721/sh/a709bb6c-d8aa-d3a8-7f11-ba7194ff1cca/rcclWe5Cvk7UT_XObTR9rSagqOFU93kXmz_XlZPR_DyIP9Mf_GikTtdRPQ) about conducting MACM analysis based on BrainMap dataset.
+Besides practical tops, it is always good to learn the goals of meta science and rules of open science before starting a meta study.
+Also, to make a meta-review be more attractive, the contribution should be clear. Interested in how to indicate a clear contribution, you are highly recommended to watch the [talk](https://github.com/wu-shuyi/meta-analysis_behavioural) offered by Dr.Rong Su from IOWA. This can also help you have a sense of how to come up with a research gap. <br>
 
+ 
 
 <br>
 <font size="4.5">  3. EEG </font> <br>
 <font size="4"> (1) preprocessing analysis </font> <br>
-
 <font size="4"> (2) ERP analysis </font> <br>
 
 
