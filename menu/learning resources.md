@@ -9,8 +9,8 @@ image: lionrock.JPG
 Here I would share some of my learning notes and open materials. <br>
 
 ---
-<font size="5.5"> open materials </font> <br>
-<font size="5"> 1. Neuroscience </font> <br>
+<font size="4.5"> open materials </font> <br>
+<font size="4.5"> 1. Neuroscience </font> <br>
 <font size="4"> (1) Harvard - Fundamentals of Neuroscience P3: The Brain (Prof. David Cox) </font> 
 [video](https://www.bilibili.com/video/av41830186/?p=1) <br>
 
@@ -24,7 +24,7 @@ Here I would share some of my learning notes and open materials. <br>
 [home link](https://compneuro.neuromatch.io/tutorials/intro.html) <br>
 <br>
 
-<font size="5"> 2. Deep learning </font> <br>
+<font size="4.5"> 2. Deep learning </font> <br>
 <font size="4"> (1) Neuromatch deep learning course </font> 
 [home link](https://deeplearning.neuromatch.io/tutorials/intro.html) <br>
 
@@ -44,7 +44,7 @@ Here I would share some of my learning notes and open materials. <br>
 [video](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)  <br>
 <br>
 
-<font size="5"> 3. Others </font> <br>
+<font size="4.5"> 3. Others </font> <br>
 <font size="4"> (1) Introduction to Probability - MIT (Prof. John Tsitsiklis) </font> 
 [home link](https://ocw.mit.edu/courses/res-6-012-introduction-to-probability-spring-2018/), [B站 video](https://www.bilibili.com/video/BV1LE411B7ir) <br>
 
@@ -52,9 +52,9 @@ Here I would share some of my learning notes and open materials. <br>
 [video](https://www.youtube.com/playlist?list=PLNybgro6DM2H7mmTV7eBBH-0nW7rtrypo) <br>
 <br>
 
-<font size="5.5"> Notes </font>
+<font size="4.5"> Notes </font>
 
-<font size="5">  1. fMRI </font>
+<font size="4.5">  1. fMRI </font>
 
 <font size="4"> (1)principles </font>  <br>
 
@@ -69,16 +69,16 @@ If you feel more comfortable with matlab, then [dpabi](http://rfmri.org/DPABI) w
 <font size="4">(3) results plot </font> <br>
 <br>
 
-<font size="5">  2. Meta-review (fmri, activation coordinate-based) </font> <br>
+<font size="4.5">  2. Meta-review (fmri, activation coordinate-based) </font> <br>
 
 <br>
-<font size="5">  3. EEG </font> <br>
+<font size="4.5">  3. EEG </font> <br>
 <font size="4"> (1) data-analysis </font> <br>
 
 <font size="4"> (2) hyperscanning setting </font> <br>
 
 <br>
-<font size="5">  4. Eye-tracking </font> <br>
+<font size="4.5">  4. Eye-tracking </font> <br>
 <font size="4"> (1) eye-movement recording (Eyelink-SR1000) </font> <br>
 
 
