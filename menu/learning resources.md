@@ -54,9 +54,8 @@ Here I would share some of my learning notes and open materials. <br>
 
 <font size="4"> (3) functional MRI principles -  </font> 
 
-
-
-<font size="4.5"> Notes </font><br>
+<br>
+<font size="4.5"> Notes </font> <br>
 <font size="4.5">  1. fMRI </font> <br>
 <font size="4"> (1)View and open DICOM data </font>  <br>
 Both [BeeDicomViewer](https://beedicom.com/) and [Mango](http://mangoviewer.com/usingmango.html) work good for viewing MRI raw data. 
