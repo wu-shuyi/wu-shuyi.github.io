@@ -11,7 +11,7 @@ Here I would share some of my learning notes and open materials. <br>
 ---
 <font size="5.5"> open materials </font> <br>
 <font size="5"> 1. Neuroscience </font> <br>
-<font size="4"> (1) Harvard - Fundamentals of Neuroscience, Part 3: The Brain (Prof. David Cox) </font> 
+<font size="4"> (1) Harvard - Fundamentals of Neuroscience P3: The Brain (Prof. David Cox) </font> 
 [video](https://www.bilibili.com/video/av41830186/?p=1) <br>
 
 <font size="4"> (2) MIT - Human Mind and Brain, Spring 2018 (Prof. Nancy Kanwisher) </font> 
@@ -65,7 +65,7 @@ Here I would share some of my learning notes and open materials. <br>
 <font size="5">  2. Meta-review (fmri, activation coordinate-based) </font> <br>
 
 <br>
-<font size="5">  3. EEG </font> 
+<font size="5">  3. EEG </font> <br>
 <font size="4"> (1) data-analysis </font> <br>
 
 <font size="4"> (2) hyperscanning setting </font> <br>
