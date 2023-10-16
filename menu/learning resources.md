@@ -52,21 +52,27 @@ Here I would share some of my learning notes and open materials. <br>
 [video](https://www.youtube.com/playlist?list=PLNybgro6DM2H7mmTV7eBBH-0nW7rtrypo) <br>
 <br>
 
+<font size="4"> (3) functional MRI principles -  </font> 
+
+
+
 <font size="4.5"> Notes </font>
 
 <font size="4.5">  1. fMRI </font> <br>
-<font size="4"> (1)principles </font>  <br>
+<font size="4"> (1)View and open DICOM data </font>  <br>
+Both[BeeDicomViewer](https://beedicom.com/) and [Mango](http://mangoviewer.com/usingmango.html) work good for viewing the MRI raw data. 
+For further analysis, we should get nii data format, and [dcm2nii](https://www.nitrc.org/projects/dcm2nii/) can work.
 
 <font size="4"> (2) data analysis </font>  <br>
 <font size="4"> a) preprocess,  </font>
 [fmriprep](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg), this is a python-based package, feel free to link my notes for your reference. 
-If you feel more comfortable with matlab, then [dpabi](http://rfmri.org/DPABI) would be a good choice.
+If you feel more comfortable with matlab, then[dpabi](http://rfmri.org/DPABI) would be a good choice.
 
 <font size="4"> b) contrast analysis(GLM) </font>
 I used to run GLM with [SPM](https://www.fil.ion.ucl.ac.uk/spm/course/slides23-oct/), but currently switch to [nilearn](https://nilearn.github.io/stable/index.html) for my current project. My notes will come out soon:) <br>
 
 <font size="4">(3) results plot </font> <br>
-<br>
+[mricorGL](https://www.nitrc.org/projects/mricrogl)
 
 <font size="4.5">  2. Meta-review (fmri, activation coordinate-based) </font> <br>
 
