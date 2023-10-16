@@ -56,7 +56,10 @@ Here I would share some of my learning notes and open materials. <br>
 <font size="5">  1. fMRI </font> <br>
 <font size="4"> (1)principles </font>  <br>
 
-<font size="4"> (2) data analysis </font> 
+<font size="4"> (2) data analysis </font>  <br>
+<font size="3.5"> a) preprocess,  </font>
+[fmriprep](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg) <br>
+<font size="3.5"> b) glm, </font>
 [nilearn](https://nilearn.github.io/stable/index.html) <br>
 
 <font size="4">(3) results plot </font> <br>
