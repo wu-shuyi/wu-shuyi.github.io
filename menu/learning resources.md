@@ -93,7 +93,7 @@ open materials <br>
 
 <br>
 <br>
-<font size="5"> 3. Others
+<font size="5"> 3. Others </font> <br>
 <br>
 <font size="4"> (1) Calculus -MIT (Prof Gilbert Strang) </font> <br>
 [B站 video](https://www.bilibili.com/video/BV18z411b731) <br>
