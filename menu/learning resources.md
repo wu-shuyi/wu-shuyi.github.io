@@ -59,12 +59,12 @@ Here I would share some of my learning notes and open materials. <br>
 <font size="4.5">  1. fMRI </font> <br>
 <font size="4"> (1)View and open DICOM data </font>  <br>
 Both [BeeDicomViewer](https://beedicom.com/) and [Mango](http://mangoviewer.com/usingmango.html) work good for viewing MRI raw data. 
-For further analysis, we should get data in the nii format, and [dcm2nii](https://www.nitrc.org/projects/dcm2nii/) can work.
+For further analysis, we could use [mricroGL](https://www.nitrc.org/projects/mricrogl/) or [dcm2nii](https://www.nitrc.org/projects/dcm2nii/) to get data in the nii format.
 
 <font size="4"> (2) data analysis </font>  <br>
 <font size="4"> a) preprocess,  </font>
-[fmriprep](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg), this is a python-based package. Feel free to link my notes for your reference. 
-If you feel more comfortable with matlab, then[dpabi](http://rfmri.org/DPABI) would be a good choice.
+When you have data in the BIDS format, [fMRIPrep](https://fmriprep.org/en/stable/), a preprocessing pipeline will work very well. Feel free to link my [notes](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg) for your reference. 
+If you feel more comfortable with matlab, then [dpabi](http://rfmri.org/DPABI) would be a good choice.
 
 <font size="4"> b) contrast analysis(GLM) </font>
 I used to run GLM with [SPM](https://www.fil.ion.ucl.ac.uk/spm/course/slides23-oct/), but switch to [nilearn](https://nilearn.github.io/stable/index.html) for my current project. My notes will come out soon:) <br>
@@ -72,6 +72,9 @@ I used to run GLM with [SPM](https://www.fil.ion.ucl.ac.uk/spm/course/slides23-o
 <font size="4">(3) results plot </font> <br>
 [mricorGL](https://www.nitrc.org/projects/mricrogl).
 [nilearn](https://nilearn.github.io/stable/plotting/index.html).
+[paraview](https://docs.paraview.org/en/latest/). Feel free to check my [note](https://www.notion.so/ParaView-for-plotting-cluster-activation-4c6d74afee8640649330c83957a6ffec?pvs=4) for your reference.
+
+[BrainNet Viewer](https://www.nitrc.org/projects/bnv/)
 
 <font size="4.5">  2. Meta-review (fmri, activation coordinate-based) </font> <br>
 
