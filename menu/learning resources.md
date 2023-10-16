@@ -65,8 +65,8 @@ open materials <br>
 <br>
 <font size="4"> (2) MIT - Human Mind and Brain, Spring 2018 (Prof. Nancy Kanwisher) </font> <br>
 
-<font size="4"> [B站 video](https://www.bilibili.com/video/av24615914/?p=1)  <br>
-<font size="4"> [home video](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain) <br>
+[B站 video](https://www.bilibili.com/video/av24615914/?p=1)  <br>
+[home video](https://nancysbraintalks.mit.edu/course/9-11-the-human-brain) <br>
 
  <br> 
 <font size="4"> (3) MIT 9.40 - Introduction to Neural Computation, Spring 2018 </font> <br>
@@ -89,14 +89,14 @@ open materials <br>
 <br>
 <font size="4"> (2) 机器学习深度学习-台湾大学-普通话版 (Prof.李宏毅)</font> <br>
 
-<font size="4"> [B站 video](https://www.bilibili.com/video/BV1JE411g7XF) <br>
+[B站 video](https://www.bilibili.com/video/BV1JE411g7XF) <br>
 
 <br>
 <br>
 <font size="5"> 3. Others
 <br>
 <font size="4"> (1) Calculus -MIT (Prof Gilbert Strang) </font> <br>
-<font size="4"> [B站 video](https://www.bilibili.com/video/BV18z411b731) <br>
+[B站 video](https://www.bilibili.com/video/BV18z411b731) <br>
  <br>
  
 <font size="4"> (2) The essence of calculus (from 3blue1brown) </font> <br>
