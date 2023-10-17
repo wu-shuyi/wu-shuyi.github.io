@@ -60,14 +60,15 @@ Here I would share some of my learning notes and open materials. <br>
 <br>
 <font size="4.5"> Notes </font> <br>
 <font size="4.5">  1. fMRI </font> <br>
-<font size="4"> (1) View and open DICOM data </font>  <br>
+<font size="4"> (1) View and open DICOM data </font> <br>
 Both [BeeDicomViewer](https://beedicom.com/) and [Mango](http://mangoviewer.com/usingmango.html) work good for viewing MRI raw data. 
 For further analysis, you could use [mricroGL](https://www.nitrc.org/projects/mricrogl/) or [dcm2nii](https://www.nitrc.org/projects/dcm2nii/) to get data in the nii format.
 
-<font size="4"> (2) data analysis </font>  <br>
+<font size="4"> (2) data analysis </font> <br>
 <font size="4"> a) preprocess  </font>
-When you happen to have data in the BIDS format, a preprocessing pipeline,[fMRIPrep](https://fmriprep.org/en/stable/), will work very well. Feel free to link my [notes](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg) for your reference. 
+When you happen to have data in the BIDS format, a preprocessing pipeline, [fMRIPrep](https://fmriprep.org/en/stable/), will work very well. Feel free to link my [notes](https://www.evernote.com/shard/s721/sh/c0f52dc3-a373-afc1-d57c-da19eb7e8ae2/hn3E1th6vOlWhKrLNENrQtWp6H85a-ejgoelDlEN6Zj4vieru_2fIXZrrg) for your reference. 
 If you feel more comfortable with matlab, then [dpabi](http://rfmri.org/DPABI) would be a good choice.
+However, these two pipelines only provide an analytic platform, so it would be good for a beginner to combine it with MRI principles to get why those processing steps we should perform. 
 
 <font size="4"> b) contrast analysis(GLM) </font>
 I used to run GLM with [SPM](https://www.fil.ion.ucl.ac.uk/spm/course/slides23-oct/), but switch to [nilearn](https://nilearn.github.io/stable/index.html) for my current project. My notes will come out soon:) <br>
@@ -84,7 +85,7 @@ First of all, you may not want to miss the youtube channel of [Dr. Gilad Feldman
 
 As for fMRI coordinate-based meta-analysis, you can follow my previous project on [uncertainty processing](https://www.sciencedirect.com/science/article/pii/S1053811921003864). In this study, we employed ALE algorithm and functional connectivity analysis (incl. MACM and RSFC) to identify both task-based joint activations and synchronized spontaneous neural signals in the absence of an actual task. Here you can find my [notes](https://www.evernote.com/shard/s721/sh/a709bb6c-d8aa-d3a8-7f11-ba7194ff1cca/rcclWe5Cvk7UT_XObTR9rSagqOFU93kXmz_XlZPR_DyIP9Mf_GikTtdRPQ) about MACM analysis based on BrainMap dataset.
 
-Besides practical tops, it is always good to learn the goals of meta science and rules of open science before starting a meta-review study.
+Besides practical tips, it is always good to learn the goals of meta science and rules of open science before starting a meta-review study.
 To publish a high-impact meta research, the contribution should be clear. Interested in how to indicate a clear contribution, you are highly recommended to watch the [talk](https://github.com/wu-shuyi/meta-analysis_behavioural) offered by Dr.Rong Su from IOWA. This can also help you have a sense of how to come up with a research gap. <br>
 
 
