@@ -93,18 +93,17 @@ To publish a high-impact meta research, the contribution should be clear. Intere
 <font size="4.5">  3. EEG </font> <br>
 <font size="4"> (1) preprocessing analysis </font> <br>
 In general, the preprocessing analysis would include the following steps:
-a) filter pass
+a) power line filter and band-pass filter
 b) bad channels removal and interpolate
 c) ICA components weight computation and bad components rejection
 d) Eye blinks artifact removal
-e) reference 
+e) re-reference 
 f) downsampling (optional)
 
-I used to use EEGLAB and ERP to run those analyses, and my next goal is to get familiar with mne-python. 
+I used to use EEGLAB and ERP to run those analyses, and I am getting familiar with mne-python. 
 
 
 <font size="4"> (2) ERP analysis </font> <br>
-<font size="4"> (3) EEG spectrum analysis </font> <br>
 
 
 <br>
